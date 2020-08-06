@@ -6,6 +6,7 @@
     box-sizing: border-box;
     color: black;
     font-family: 'Roboto', sans-serif;
+    line-height: 25px;
 }
 .container{
     display: flex;
@@ -31,6 +32,9 @@ p{
     padding-top: 15px;
     padding-bottom: 15px;
     font-size: 12px;  
+}
+span{
+    padding: 4px;
 }
 button{
     justify-content: center;
