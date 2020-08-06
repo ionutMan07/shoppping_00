@@ -33,6 +33,9 @@ p{
     padding-bottom: 15px;
     font-size: 12px;  
 }
+.space{
+    margin: 0 5px;
+}
 span{
     padding: 4px;
 }
@@ -47,6 +50,10 @@ button{
     font-size: 16px;
 }
 button:hover{
+    background-color: black;
+    color: white;
+}
+.active{
     background-color: black;
     color: white;
 }
