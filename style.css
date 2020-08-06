@@ -10,7 +10,6 @@
 .container{
     display: flex;
     flex-wrap: wrap;
-    /*margin: 5px 160px;*/
     justify-content: center;
 }
 img{
